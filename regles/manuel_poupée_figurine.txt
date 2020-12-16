@@ -24,4 +24,4 @@ sinon.
 Si c'est une figurine, on cout les bras puis
 les jambes, l'inverse sinon.
 
-On finit par perdre à la couleur demandé
+On finit par peindre à la couleur demandé
