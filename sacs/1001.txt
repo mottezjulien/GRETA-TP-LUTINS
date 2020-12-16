@@ -1,0 +1,49 @@
+
+Voiture télécommandé rouge:
+
+  -0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*-0*
+  *             Tiges métalliques : 40                 -
+  0             Piles: 4                               0
+  -             Visser les roues                       *
+  *             Fixer le chassie                       -
+  0             Fixer les roues                        0
+  -             Visser le tout                         *
+  *             Limer le moteur                        -
+  0             Gonfler les roues                      0
+  -             Peindre en rouge foncé                 *
+  *             Peindre des flammes                    -
+  0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*0-*
+
+
+Ballon vert:
+
+|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|
+!    m² d'air: 10                                     &
+&    Tissu: 50                                        !
+|    Coudre / Coudre / Coudre / Coudre / Coudre       |
+!    Coudre / Coudre / Coudre / Coudre / Coudre       &
+&    Coudre / Coudre / Coudre / Coudre / Coudre       !
+|    Coudre / Coudre / Coudre / Coudre / Coudre       |
+!    Coudre / Coudre / Coudre / Coudre / Coudre       &
+&    Coudre / Coudre / Coudre / Coudre / Coudre       !
+|    Coudre / Coudre / Coudre / Coudre / Coudre       |
+!    Coudre / Coudre / Coudre / Coudre / Coudre       &
+&    Peindre des étoiles en vert                      !
+|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|
+
+Poupée bleue:
+
+;,:;,:;,:;,:;,:;,:;,:;,:;,:;,:;,:;,:;
+:                                   ,
+,   Tissu: 8                        :
+;   Barils de pétrole: 4            ;
+:   Aiguilles: 130                  ,
+,   Coudre la jambe droite          :
+;   Coudre la jambe gauche          ;
+:   Coudre le bras droit            ,
+,   Coudre le bras gauche           :
+;   Coudre le tout                  ;
+:   Peindre en bleu                 ,
+,                                   :
+;:,;:,;:,;:,;:,;:,;:,;:,;:,;:,;:,;:,;
+

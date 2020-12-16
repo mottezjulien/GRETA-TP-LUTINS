@@ -1,0 +1,22 @@
+Voici le manuel pour construire des ballons.
+
+--- Matériels
+
+1) Il autant de m² d'air que l'age de l'enfant plus 2.
+
+2) Il faut 30 tissus en Amérique, 40 en Asie et 50 sinon.
+
+--- Fabrication
+
+Sur la même ligne, Coudre un nombre de fois divisé par le nombre de tissu
+Séparer la couture par un caratère:
+/ en Europe
+& en Asie
+* en Océanie
+$ en Afrique
+ç en Amérique
+
+Répéter cette ligne autant de fois que l'age moins 1 de l'enfant
+
+Finir par peindre en forme d'étoile pour un garçon, en triangle
+pour une fille, à la couleur demandée
