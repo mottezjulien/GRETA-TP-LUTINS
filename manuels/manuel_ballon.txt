@@ -8,7 +8,7 @@ Voici le manuel pour construire des ballons.
 
 --- Fabrication
 
-Sur la même ligne, Coudre le nombre de tissu de fois divisé par 10
+Sur la même ligne, Coudre autant que (le nombre de tissu / 10)
 Séparer la couture par un caratère:
 / en Europe
 & en Asie
