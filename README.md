@@ -24,22 +24,19 @@ Via le site github.com, je conseille de travailler avec des pull requests, des i
 Afin de préparer les jouets, les taches des lutins se découpent en différentes étapes:
 
 ##### Lecture du courrier
-Les lutins doivent lire le courrier des enfants afin de récupérer le besoin,
-comprendre les envies et lister l'ensemble des différents cadeaux à faire
-pour satisfaire la lettre. Les lettres arrivent progressivement avant noël.
+Les lutins doivent lire le courrier des enfants afin de récupérer le besoin, comprendre les envies et lister l'ensemble des différents cadeaux à faire. 
+Les lettres arrivent progressivement avant noël.
 
 ##### La construction des jouets
-Après avoir compris les spécifications des jouets, les lutins construisent les
-jouets demandés.
+Après avoir compris les spécifications des jouets, les lutins construisent les jouets demandés.
 
 ##### Emballage des jouets
-Les lutins vérifient que les jouets sont cohérents. Si c'est le cas, ils emballent
-le cadeau. Après avoir emballé les cadeaux, on ne peux plus modifier le jouet.
+Les lutins vérifient que les jouets sont cohérents. Si c'est le cas, ils emballent le cadeau. 
+Après avoir emballé les cadeaux, on ne peux plus modifier le jouet.
 
 ##### Rassemblement dans le sac
-Les lutins regroupent les différents jouets d'une lettre et les mettent dans un sac
-afin que le père noêl puisse descendre dans la cheminée avec uniquement les jouets
-de la personne de la lettre.
+Les lutins regroupent les différents jouets d'une lettre et les mettent dans un sac.
+Le père noël descend ainsi dans la cheminée le jour de noël avec un unique sac.
 
 ##### Empaqueter dans le traineau
 Chaque sac de jouet doit être trié par rapport à la ville de destination, afin de faciliter
