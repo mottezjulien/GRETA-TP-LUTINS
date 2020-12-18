@@ -1,0 +1,14 @@
+--- Materiels
+planche en bois 5
+
+--- fabrication
+
+  couper peindreJaune
+        couper          peindreJaune
+  couper
+
+        peindreJaune
+                 couper
+                            peindreJaune
+   couper peindreJaune
+          couper peindreJaune
