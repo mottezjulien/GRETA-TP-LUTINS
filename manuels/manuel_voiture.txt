@@ -1,6 +1,4 @@
-Voici le manuel pour construire des voitures, que cela soit des
-voitures en bois, des voitures télécommandées ou des voitures
-en plastique.
+Voici le manuel pour construire des voitures, que cela soit des voitures en bois, des voitures télécommandées ou des voitures en plastique.
 
 --- Matériels
 
@@ -11,7 +9,7 @@ Il faut en avoir 5 fois l'age de l'enfant, à part pour les enfants de plus de 1
 
 2) Pour les voitures en plastique, il faut aussi des gants de protection, il y en faut 3 si l'enfant est américain, 2 sinon.
 
-3) Pour les voitures télécommandés il faut des piles, 4 en europe, 3 en amérique, 2 en afrique, 0 océanie, 5 sinon.
+3) Pour les voitures télécommandés, il faut des piles, 4 en europe, 3 en amérique, 2 en afrique, 0 océanie, 5 sinon.
 
 4) Pour les voitures en bois (et en plastique, si le cadeau est pour un garçon), il faut des engrenages, autant qu'il y a de lettres dans le prénom de l'enfant.
 
@@ -25,7 +23,7 @@ Les peintures doivent se faire avant la manipulation du moteur en Afrique.
 2) Fixer le chassie (si vous n'êtes pas en Asie).
 3) Fixer les roues.
 4) Visser le tout.
-5) limer le moteur en Europe, huiler le moteur en Asie, fusionner le moteur en Océanie, projeter le moteur sinon.
-6) Gonfler les roues
-7) Peindre à la couleur indiqué. Ajouté "du foncé" sur un garcon et du clair pour une fille"
-8) Peindre des flammes
+5) Limer le moteur en Europe, huiler le moteur en Asie, fusionner le moteur en Océanie, projeter le moteur sinon.
+6) Gonfler les roues.
+7) Peindre à la couleur indiqué. La couleur est foncé sur un garcon et clair pour une fille.
+8) Peindre des flammes.
