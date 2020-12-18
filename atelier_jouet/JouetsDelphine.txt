@@ -13,7 +13,7 @@ Peindre en vert
 
 Puzzle noir
 
-Planches en bois: 5
+Planches en bois: 7
 Couleur peinture noire
 ................
 |  c        c  |
