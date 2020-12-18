@@ -2,19 +2,19 @@ Voici le manuel pour construire des puzzles.
 
 --- Matériels
 
-1) Il faut un nombre de planche en bois égal au nombre de lettre de la ville de l'enfant.
+1) Il faut un nombre de planche en bois égal au nombre de lettres de la ville de l'enfant.
 
 --- Fabrication
 
 IL faut couper et peindre antant de fois qu'il y a de lettres dans le prénom de l'enfant.
 Le découpage et la peinture se trouve un peu partout aléatoirement.
+Afin de peindre la couleur demandée, on va écrire P(la couleur)
 
-exemple:
+Exemple pour un enfant qui a une ville avec deux caractères avec un puzzle rouge :
 
-...........
-|  c      |
-|    p  c |
-|   p     |
-|   c     |
-|  p   c  |
-...........
+................
+|  couper      |
+|   p(rouge)   |
+|     couper   |
+| p(rouge)     |
+................
