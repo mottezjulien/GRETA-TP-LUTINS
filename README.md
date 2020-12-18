@@ -3,22 +3,25 @@
 ### Principe
 
 Vous êtes les lutins qui vont préparer les commandes du père noël.
-Chez les lutins, pas de chef, la clef c'est la motivation, la responsabilité partagée,
-l'engagement et la qualité du travail bien fait.
-Le père noël est là pour être facilité le travail des lutins et les aider dans
-ce processus de construction de cadeau de préparatif de noël.
+Le but est, par rapport aux lettres d'enfant au père noël, de construire les jeux demandés par les enfants et les mettre dans le traineau du père noël
+Chez les lutins, pas de chef, la clef c'est la motivation, la responsabilité partagée, l'engagement et la qualité du travail bien fait.
+Le père noël est là pour être facilité le travail des lutins et les aider dans ce processus de construction de cadeau de préparatif de noël.
 
 ### Buts et objectifs
 
-Le but de l'exercice est de travailler sur la manipulation de Git.
-On va s'abstraire de la technique afin de se focaliser sur des problèmatiques de
-travail en équipe. On va travailler sur le workflow Git, les pull requests et le management
-visuel des taches à faire.
-Nous allons travailler via GitHub, avec les tableaux de type "Projet"
+#### Gestion d'un processus et responsabilité d'équipe
+
+La base de l'exercice est de travailler sur la cohésion d'équipe sur un flux de travail à mettre en place. 
+
+#### Travail avec Git
+
+L'exercice a été axé pour travailler avec la gestion de versionning Git et le principe de workflow Git. 
+Ceci n'est pas obligatoire, on peut préparer cet atelier via des papiers et des crayons.
+Via le site github.com, je conseille de travailler avec des pull requests, des issues et des projects.
 
 ### Les taches des lutins
 
-Les taches des lutins se découpent en différentes étapes:
+Afin de préparer les jouets, les taches des lutins se découpent en différentes étapes:
 
 ##### Lecture du courrier
 Les lutins doivent lire le courrier des enfants afin de récupérer le besoin,
