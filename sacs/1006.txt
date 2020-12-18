@@ -1,0 +1,29 @@
+Ballon rouge à pois bleu:
+
+|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|&!|
+!    m² d'air: 8                                      &
+&    Tissu: 50                                        !
+|    Coudre / Coudre / Coudre / Coudre / Coudre       |
+!    Coudre / Coudre / Coudre / Coudre / Coudre       &
+&    Coudre / Coudre / Coudre / Coudre / Coudre       !
+|    Coudre / Coudre / Coudre / Coudre / Coudre       |
+!    Coudre / Coudre / Coudre / Coudre / Coudre       &
+&    Peindre des étoiles en rouge à pois bleu         !
+|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|!&|
+
+
+Poupée bleue:
+
+;,:;,:;,:;,:;,:;,:;,:;,:;,:;,:;,:;,:;
+:                                   ,
+,   Tissu: 6                        :
+;   Barils de pétrole: 10           ;
+:                   			    ,
+,   Coudre la jambe gauche          :
+;   Coudre la jambe droite          ;
+:   Coudre le bras droit            ,
+,   Coudre le bras gauche           :
+;   Coudre le tout                  ;
+:   Peindre en bleu                 ,
+,                                   :
+;:,;:,;:,;:,;:,;:,;:,;:,;:,;:,;:,;:,;
