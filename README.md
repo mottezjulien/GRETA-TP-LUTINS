@@ -92,40 +92,42 @@ Des que le jouet est construit, un lutin doit l'emballer. Il doit déplacer le j
 de l'atelier du jouet (dossier "atelier_jouet") à l'atelier d'emballage
 (dossier "atelier_emballage")
 
-Le lutin emballe le jouet en rajoutant un carrée de caractère autour des instrctions
-de la construction du jouet. Il faut au moins 3 caractères différents pour faire
-cette emballage, les caractères doivent chaque fois varier.
+Le lutin emballe le jouet en rajoutant des caractères tout autour des instructions de la construction du jouet. 
 
-IL EST INTERDIT DE FAIRE UN EMBALLAGE AVEC UNE ASSOCIATION DE CARACTERES QUI A DEJA
-ETE FAITE.
+Exemples avec "abc":
+                                    cbacbacbacbacbacbacbac
+                                    a                    b       
+ instruction 1                      b   instruction 1    a   
+ instruction 2          --->        c   instruction 2    c
+ instruction 3                      a   instruction 3    b
+                                    b                    a       
+                                    cabcabcabcabcabcabcabc                 
+
+Il faut au moins 3 caractères différents pour faire cette emballage, les caractères doivent chaque fois varier.
+
+Comme règle métier: Il est interdit de faire deux emballages identiques
 
 ### Détails: Rassemblement dans le sac
 
 Des que tous les jouets d'un enfant sont emballés, on les met dans un sac.
 Un sac est un fichier qui rassemble l'ensemble des cadeaux emballés d'un enfant.
 
-Pour mettre un jouet dans un sac, la donnée du fichier de jouet se trouvant
-dans l'atelier d'emballage se met dans le fichier du sac. Le fichier de l'atelier
-est ensuite supprimé.
+Pour mettre les jouets dans un sac, les fichiers de chaque jouet se trouvant dans l'atelier d'emballage se regroupe dans un fichier dans le dossier sac. 
+Les fichiers de l'atelier d'emballager doit être supprimé.
 
 ### Détails: Empaqueter dans le traineau
 
-Il reste à mettre le sac dans le traineau. Le traineau se trouve dans l'hangar, via
-le fichier "traineau.txt".
+Il reste à mettre le sac dans le traineau. Le traineau se trouve dans l'hangar, via le fichier "traineau.txt".
 
-Le traineau a différents étages de cadeau. Chaque étage doive être à peut prêt
-équilibré au niveau poid et espace afin que le traineau soit stable. Du coup
-On ne peux pas avoir une différence de 2 avec le nombre de sac par étage.
+Le traineau a différents étages de cadeau. 
+Le traineau doit être à peu prêt équilibré au niveau poid et espace afin que le traineau soit stable. 
+Du coup, on ne peut pas avoir une différence de 2 avec le nombre de sac par chaque étage.
 
-Chaque sac doit être ordonné dans le traineau afin de faciliter la livraison des
-cadeaux le jour J de noël.
+Chaque sac doit être ordonné dans le traineau afin de faciliter la livraison des cadeaux le jour J de noël.
+Le père noel va livrer en premier les sacs qui se trouvent au dessus du traineau (étage 4 puis étage 3 puis ...).
 
-Le père noel va livrer en premier les sacs qui se trouvent au dessus du traineau
-(étage 4 puis étage 3 puis ...).
-
-Les sacs doivent être trié par continent (Amérique -> Afrique -> Europe
--> Océanie -> Asie). Pour chaque continent, les sacs doivent être ensuite être
-trié par ville, par ordre alphabétique.
+Les sacs doivent être triés par continent (Amérique -> Afrique -> Europe -> Océanie -> Asie). 
+Pour chaque continent, les sacs doivent être ensuite être triés par ville, par ordre alphabétique.
 
 
 
