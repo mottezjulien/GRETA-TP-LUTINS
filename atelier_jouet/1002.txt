@@ -20,6 +20,7 @@ Voiture en bois blanche
 Fixer les roues
 Visser le chassis
 Visser les roues
+Fixer le tout
 Fusionner le moteur
 Gonfler les roues
 Peindre en blanc, ajouter du clair
