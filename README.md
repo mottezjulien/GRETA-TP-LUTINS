@@ -40,7 +40,7 @@ de la personne de la lettre.
 
 ##### Empaqueter dans le traineau
 Chaque sac de jouet doit être trié par rapport à la ville de destination, afin de faciliter
-le père noël pour retrouver rapidement ces sacs pendant le jour de noël. Ainsi
+le père noël pour retrouver rapidement ces sacs pendant le jour de noël.
 
 ##### Asynchronisation et priorisation des taches
 Le travail d'équipe est important pour les lutins, tout le monde met la main dans le cambouie.
