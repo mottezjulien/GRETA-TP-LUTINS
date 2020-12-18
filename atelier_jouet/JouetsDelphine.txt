@@ -1,0 +1,26 @@
+Poupée verte
+
+Tissu: 7
+Barils de pétrole: 5
+Crocheter jambe droite
+Crocheter jambe gauche
+Crocheter bras gauche
+Crocheter bras droit
+Peindre en vert
+
+-------------------------
+
+Puzzle noir
+
+Planches en bois: 5
+Couleur peinture noire
+................
+|  c        c  |
+|    p  c      |
+| p        p   |
+|     p   c    |
+|  c   p       |
+|     p    p   |
+|  p    c      |
+|  c        c  |
+................
